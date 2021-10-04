@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on big projects
-- 📫 How to reach me  jawadaliv@8@gmail.com
+- 📫 How to reach me  jawadaliv@28@gmail.com
 
 <!---
 jangojd/jangojd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
