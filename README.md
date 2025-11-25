@@ -15,9 +15,9 @@ I’m a **Machine Learning Researcher** and **Petroleum Engineer** passionate ab
 
 ## 🛠️ Technical Skills
 
-- **Languages / Tools**: Python, SQL, MATLAB (if you use), Julia (if applicable)  
+- **Languages / Tools**: Python, SQL, MATLAB, Julia , STATA  
 - **Libraries / Frameworks**: scikit-learn, TensorFlow / PyTorch, pandas, numpy, matplotlib / seaborn  
-- **Concepts**: Machine Learning, Deep Learning, Reservoir Simulation, Data Analysis, GIS
+- **Concepts**: Machine Learning, Deep Learning, Reservoir Simulation, Data Analysis, GIS, ABM
 
 ---
 
@@ -33,7 +33,7 @@ Here are some of my key projects:
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 Currently Working On/Worked.
 
 - A deep learning model to predict reservoir behavior  
 - A research project around CO₂ geological storage  
@@ -45,5 +45,5 @@ Here are some of my key projects:
 
 - Email: `jawadaliv@28@gmail.com`  
 - LinkedIn: *https://www.linkedin.com/in/jawad-ali-jd/*  
-- Website: *(add if you have a personal portfolio / blog)*
+- Website: 
 
