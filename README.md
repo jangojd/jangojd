@@ -19,17 +19,6 @@ I’m a **Machine Learning Researcher** and **Petroleum Engineer** passionate ab
 - **Libraries / Frameworks**: scikit-learn, TensorFlow / PyTorch, pandas, numpy, matplotlib / seaborn  
 - **Concepts**: Machine Learning, Deep Learning, Reservoir Simulation, Data Analysis, GIS, ABM
 
----
-
-## 📁 Featured Projects
-
-Here are some of my key projects:
-
-- **EOR_app** – Python app for enhanced oil recovery modeling  
-- **Portfolio-Projects** – My portfolio of data science, ML, and research projects  
-- **jd2.github.io** – My personal website / blog hosted on GitHub Pages  
-- **SQL_Projects** – SQL-based projects (database design, queries, etc.)  
-- *(Add two more here depending on what you want to showcase)*
 
 ---
 
